@@ -69,7 +69,7 @@ Your assignment is to use Built-In java classes to:
     * What is familiar to you?
     * What is not familiar to you?
     * Do the **for** loops make sense, and if so, tell me what you think they do?
-    *** The declaring of access modifier and class is familiar as is the use of a data type (file), though I’ve never used data type file up until now. 
+    * *** The declaring of access modifier and class is familiar as is the use of a data type (file), though I’ve never used data type file up until now. 
     * I see some boolean logic used to structure if the method works vs. if it garners an unreadable string (error). 
     * I see some format modifiers for the error output. 
     * I am unfamiliar with the “for” logic operator and the general logic flow of the entire method. 
